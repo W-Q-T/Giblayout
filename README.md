@@ -10,7 +10,7 @@ Extraction code：1w05
 
 
 ### Citation
-If you use Gibson's database or software please cite:
+If you use GibLayout's database or software please cite:
 
 ~~~
 {
