@@ -4,9 +4,9 @@ We annotated eighty small and medium-sized scenes in the Gibson dataset. For a d
 
 
 ## Download
-链接：https://pan.baidu.com/s/1ZdPPhjhKIwd5W3eDGRqYew 
-提取码：1w05 
---来自百度网盘超级会员V3的分享
+website：https://pan.baidu.com/s/1ZdPPhjhKIwd5W3eDGRqYew
+
+Extraction code：1w05 
 
 
 ### Citation
