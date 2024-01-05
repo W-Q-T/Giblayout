@@ -4,10 +4,8 @@ We annotated eighty small and medium-sized scenes in the Gibson dataset. For a d
 
 
 ## Download
-website：https://pan.baidu.com/s/1ZdPPhjhKIwd5W3eDGRqYew
-
-Extraction code：1w05 
-
+website：https://pan.baidu.com/s/1k4tqrt0TPf07LId2KHMJSQ 
+Extraction code：9ael
 
 ### Citation
 If you use GibLayout's database or software please cite:
